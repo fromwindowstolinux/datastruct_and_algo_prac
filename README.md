@@ -1,3 +1,5 @@
-| Description | Link |
+[SOURCE](https://kingrayhan.medium.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0)
+
+| Folder | Description |
 | --- | --- |
-| Array Practice 1 | [Find a pair with the given sum in an array](https://www.techiedelight.com/find-pair-with-given-sum-array/) |
+| array | Pactice on array |
